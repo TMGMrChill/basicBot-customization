@@ -56,8 +56,8 @@
         botName: "basicBot",
         language: "english",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
-        startupCap: 1, // 1-200
-        startupVolume: 0, // 0-100
+        startupCap: 10, // 1-200
+        startupVolume: 50, // 0-100
         startupEmoji: false, // true or false
         maximumAfk: 120,
         afkRemoval: true,
@@ -96,9 +96,9 @@
         opLink: null,
         rulesLink: null,
         themeLink: null,
-        fbLink: null,
+        fbLink: https://www.facebook.com/profile.php?id=120632991346392,
         youtubeLink: null,
-        website: null,
+        website: www.tmgaming.org,
         intervalMessages: [],
         messageInterval: 5,
         songstats: true,
