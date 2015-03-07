@@ -98,7 +98,7 @@
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
-        website: null,
+        website: "www.tmgaming.org",
         intervalMessages: [],
         messageInterval: 5,
         songstats: true,
